@@ -1,6 +1,5 @@
 # Devrex4253.github.io
-Here's a small idea of what I can do
-<!DOCTYPE html>
+Here's a small idea of what I can do!
 <html lang="en">
 <head>
     <meta charset="UTF-8">
