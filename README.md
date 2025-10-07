@@ -362,7 +362,6 @@ Here's a small idea of what I can do!
     <section class="projects">
         <div class="container">
             <div class="edit-note">
-                <strong>Admin Note:</strong> To add/edit projects, modify this HTML file directly in your GitHub repository.
             </div>
             
             <h1>Selected Projects</h1>
