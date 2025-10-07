@@ -183,7 +183,6 @@ Here's a small idea of what I can do!
     </footer>
 </body>
 </html>
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
