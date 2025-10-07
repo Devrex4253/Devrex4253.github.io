@@ -436,15 +436,13 @@ Here's a small idea of what I can do
             </div>
 
             <div class="add-project">
-                <h3>Add New Project</h3>
-                <p>To add a new project, copy one of the project cards above and modify the details. Replace [Project Image X] with your actual image or placeholder text.</p>
             </div>
         </div>
     </section>
 
     <footer>
         <div class="container">
-            <p>&copy; 2025 Your Name. All rights reserved.</p>
+            <p>&copy; 2025 DevrexLabs. All rights reserved.</p>
         </div>
     </footer>
 </body>
